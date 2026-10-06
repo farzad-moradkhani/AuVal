@@ -1,21 +1,110 @@
-MIT License
+# AuVal Non-Commercial License
 
 Copyright (c) 2026 Farzad Moradkhani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, fork, and distribute the Software for personal, educational,
+research, and other non-commercial purposes, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. NON-COMMERCIAL USE
+
+The Software may not be used, directly or indirectly, for commercial purposes.
+
+Commercial purposes include, but are not limited to:
+
+* Selling the Software or a modified version of the Software.
+* Publishing the Software or a modified version on an app store, marketplace,
+  or other commercial distribution platform for monetary gain.
+* Using the Software as part of a paid product or service.
+* Using the Software to generate advertising revenue or other commercial revenue.
+* Licensing, sublicensing, or selling the Software or derivative works.
+* Incorporating substantial portions of the Software into a commercial product
+  or service.
+
+Any commercial use requires prior written permission from the copyright holder.
+
+## 2. MODIFICATION AND FORKING
+
+You are free to modify, fork, and create derivative works from the Software
+for personal, educational, research, and other non-commercial purposes.
+
+## 3. ATTRIBUTION
+
+Any redistribution or modified version of the Software must retain this
+copyright notice and a copy of this license.
+
+## 4. BRANDING AND TRADEMARKS
+
+The AuVal name, logo, trademarks, service marks, visual identity, screenshots,
+and other branding materials are not covered by this license.
+
+Permission to use the Software does not grant permission to use the AuVal
+name, logo, trademarks, or branding in a way that suggests official
+endorsement, affiliation, or authorship.
+
+## 5. FINANCIAL DISCLAIMER
+
+AuVal is a software application provided for informational and estimation
+purposes only.
+
+AuVal does NOT provide financial, investment, trading, tax, legal, or other
+professional advice.
+
+Nothing in AuVal should be interpreted as a recommendation, solicitation,
+or instruction to buy, sell, hold, or otherwise trade gold or any other asset.
+
+Users are solely responsible for their own financial decisions and for any
+actions they take based on information displayed by the Software.
+
+## 6. PRICE ACCURACY AND DATA SOURCES
+
+Gold prices displayed by AuVal are approximate and are obtained from external
+data sources.
+
+The displayed prices are NOT guaranteed to be accurate, complete, current,
+real-time, or suitable for an actual purchase or sale transaction.
+
+Actual gold prices may differ from the prices displayed by AuVal due to
+market conditions, data-source delays, scraping errors, source outages,
+regional differences, dealer margins, transaction fees, purity differences,
+and other factors.
+
+AuVal does not guarantee the accuracy or availability of any market data
+displayed by the Software.
+
+Users should independently verify prices with a reliable and appropriate
+source before making any financial decision or transaction.
+
+## 7. USER RESPONSIBILITY
+
+The Software is provided on an "as is" and "as available" basis.
+
+The user is solely responsible for their use of the Software and for any
+decision, transaction, loss, damage, or consequence resulting from such use.
+
+The copyright holder and contributors are not responsible for financial
+losses, investment losses, transaction losses, or any other damages resulting
+from reliance on information provided by the Software.
+
+## 8. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AVAILABILITY, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, LOSSES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR INABILITY TO USE THE SOFTWARE.
+
+## 9. COMMERCIAL LICENSE
+
+For commercial use, including commercial distribution, monetization,
+integration into a commercial product or service, or other commercial
+exploitation, separate written permission or a commercial license must be
+obtained from the copyright holder.
+
+Contact:
+
+farzadmoradkhanideveloper@gmail.com
+
