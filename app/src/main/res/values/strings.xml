@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AuVal</string>
+    <string name="bottomNav_title_home">Home</string>
+    <string name="bottomNav_title_portfolio">Portfolio</string>
+    <string name="bottomNav_title_transactions">Transactions</string>
+    <string name="bottomNav_title_settings">Settings</string>
+
 </resources>
