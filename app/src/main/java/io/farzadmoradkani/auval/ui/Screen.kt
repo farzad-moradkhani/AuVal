@@ -21,12 +21,12 @@ sealed class Screen(
         R.string.bottomNav_title_portfolio,
         R.drawable.wallet_icon
     )
-
-    data object Transactions : Screen(
-        "transactions",
-        R.string.bottomNav_title_transactions,
-        R.drawable.transaction_icon
-    )
+//
+//    data object Transactions : Screen(
+//        "transactions",
+//        R.string.bottomNav_title_transactions,
+//        R.drawable.transaction_icon
+//    )
 
     data object Settings : Screen(
         "settings",

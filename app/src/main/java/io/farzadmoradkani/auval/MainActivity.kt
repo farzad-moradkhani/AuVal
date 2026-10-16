@@ -71,7 +71,7 @@ fun AuValApp() {
 
                 Screen.Portfolio -> PortfolioScreen()
 
-                Screen.Transactions -> TransactionsScreen()
+//                Screen.Transactions -> TransactionsScreen()
 
                 Screen.Settings -> SettingsScreen()
             }

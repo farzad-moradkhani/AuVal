@@ -20,12 +20,14 @@ fun AuValNavigationBar(
     currentScreen: Screen,
     onScreenSelected: (Screen) -> Unit
 ) {
-    NavigationBar {
+    NavigationBar(
+        containerColor = MaterialTheme.colorScheme.surface
+    ) {
 
         listOf(
             Screen.Home,
             Screen.Portfolio,
-            Screen.Transactions,
+//            Screen.Transactions,
             Screen.Settings
         ).forEach { screen ->
 
