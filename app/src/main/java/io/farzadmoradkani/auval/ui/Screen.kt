@@ -30,7 +30,7 @@ sealed class Screen(
 
     data object Settings : Screen(
         "settings",
-        R.string.bottomNav_title_transactions,
+        R.string.bottomNav_title_settings,
         R.drawable.settings_icon
     )
 }

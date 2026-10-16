@@ -36,10 +36,10 @@ private val LightColorScheme = lightColorScheme(
     primary = Gold,
     onPrimary = Charcoal,
 
-    secondary = Charcoal,
+    secondary = Gray,
     onSecondary = Color.White,
 
-    background = Background,
+    background = BoneWhite,
     onBackground = Charcoal,
 
     surface = Surface,
