@@ -19,6 +19,7 @@
     <string name="screen_home_goldPriceCard_title">18k Gold price</string>
     <string name="screen_home_goldPriceCard_price_info">Toman/Gram</string>
     <string name="screen_home_goldPriceCard_liveData_update">last update</string>
+    <string name="screen_home_goldPriceCard_error">Could not fetch the price. Try again.</string>
 
     <string name="screen_home_portfolio_worth_title">Portfolio worth</string>
     <string name="screen_home_portfolio_worth_footer">@string/currency_toman</string>
@@ -26,9 +27,54 @@
     <string name="screen_home_portfolio_myGold_title">Total weight</string>
     <string name="screen_home_portfolio_myGold_footer">Deposit</string>
 
-    <string name="screen_home_bottomCards_title_today">today</string>
-    <string name="screen_home_bottomCards_title_totalPnL">total Pnl</string>
+    <string name="screen_home_bottomCards_title_today">Today</string>
+    <string name="screen_home_bottomCards_title_totalPnL">Total P&amp;L</string>
+    <string name="screen_home_bottomCards_title_performance">Performance</string>
+    <string name="screen_home_bottomCards_subtitle_today">vs. yesterday</string>
+    <string name="screen_home_bottomCards_subtitle_total">since first deposit</string>
 
+    <!--    Portfolio Screen Strings-->
+    <string name="screen_portfolio_topCard_title">My portfolio</string>
+    <string name="screen_portfolio_topCard_worth_title">Portfolio worth</string>
+    <string name="screen_portfolio_topCard_weight_title">Total weight</string>
+    <string name="screen_portfolio_topCard_deposit_footer">Deposit</string>
+    <string name="screen_portfolio_holding_value_title">Value</string>
+    <string name="screen_portfolio_holding_profit_title">Profit/Loss</string>
+    <string name="screen_portfolio_holding_bought_price_title">Bought price</string>
+    <string name="screen_portfolio_holding_added_at">Added at</string>
+    <string name="screen_portfolio_empty">No deposits yet</string>
+    <string name="screen_portfolio_fab_add">Add deposit</string>
+    <string name="screen_portfolio_addDialog_title">Add deposit</string>
+    <string name="screen_portfolio_addDialog_dateTime_label">Added at</string>
+    <string name="screen_portfolio_addDialog_weight_label">Weight (g)</string>
+    <string name="screen_portfolio_addDialog_value_label">Value (Toman)</string>
+    <string name="screen_portfolio_addDialog_purchasePrice_label">Bought price (Toman/g)</string>
+    <string name="screen_portfolio_addDialog_profit_label">Profit/Loss (Toman)</string>
+    <string name="action_add">Add</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_remove">Remove</string>
+
+    <!--    Settings Screen Strings    -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language_title">Language</string>
+    <string name="settings_language_system">System default</string>
+    <string name="settings_gold_source_title">Gold price source</string>
+    <string name="settings_gold_source_note">Select a source, or test each one to check availability.</string>
+    <string name="settings_gold_source_iranjib">Iranjib</string>
+    <string name="settings_gold_source_talasea">Talasea</string>
+    <string name="settings_gold_source_tgju">TGJU</string>
+    <string name="settings_gold_source_test">Test</string>
+    <string name="settings_gold_source_testing">Testing...</string>
+    <string name="settings_gold_source_test_success">Available: %1$s Toman/g</string>
+    <string name="settings_gold_source_test_failure">Unavailable</string>
+
+    <!--    Language names    -->
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_chinese">中文</string>
 
 
 

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AuVal</string>
+    <string name="bottomNav_title_home">خانه</string>
+    <string name="bottomNav_title_portfolio">پورتفولیو</string>
+    <string name="bottomNav_title_transactions">تراکنش‌ها</string>
+    <string name="bottomNav_title_settings">تنظیمات</string>
+    <string name="currency_toman">تومان</string>
+
+    <!--    Home Screen Strings    -->
+    <string name="screen_home_header_greetings_morning">صبح بخیر</string>
+    <string name="screen_home_header_greetings_afternoon">ظهر بخیر</string>
+    <string name="screen_home_header_greetings_evening">عصر بخیر</string>
+    <string name="screen_home_header_greetings_night">شب بخیر</string>
+    <string name="screen_home_header_secondaryText">پورتفولیوی طلای آب‌شده</string>
+
+    <string name="screen_home_goldPriceCard_title">قیمت طلای ۱۸ عیار</string>
+    <string name="screen_home_goldPriceCard_price_info">تومان/گرم</string>
+    <string name="screen_home_goldPriceCard_liveData_update">آخرین به‌روزرسانی</string>
+    <string name="screen_home_goldPriceCard_error">دریافت قیمت ناموفق بود. دوباره تلاش کنید.</string>
+
+    <string name="screen_home_portfolio_worth_title">ارزش پورتفولیو</string>
+    <string name="screen_home_portfolio_worth_footer">@string/currency_toman</string>
+
+    <string name="screen_home_portfolio_myGold_title">وزن کل</string>
+    <string name="screen_home_portfolio_myGold_footer">سپرده</string>
+
+    <string name="screen_home_bottomCards_title_today">امروز</string>
+    <string name="screen_home_bottomCards_title_totalPnL">سود/زیان کل</string>
+    <string name="screen_home_bottomCards_title_performance">عملکرد</string>
+    <string name="screen_home_bottomCards_subtitle_today">نسبت به دیروز</string>
+    <string name="screen_home_bottomCards_subtitle_total">از اولین سپرده</string>
+
+    <!--    Portfolio Screen Strings-->
+    <string name="screen_portfolio_topCard_title">پورتفولیوی من</string>
+    <string name="screen_portfolio_topCard_worth_title">ارزش پورتفولیو</string>
+    <string name="screen_portfolio_topCard_weight_title">وزن کل</string>
+    <string name="screen_portfolio_topCard_deposit_footer">سپرده</string>
+    <string name="screen_portfolio_holding_value_title">ارزش</string>
+    <string name="screen_portfolio_holding_profit_title">سود/زیان</string>
+    <string name="screen_portfolio_holding_bought_price_title">قیمت خرید</string>
+    <string name="screen_portfolio_holding_added_at">تاریخ افزودن</string>
+    <string name="screen_portfolio_empty">هنوز سپرده‌ای ثبت نشده است</string>
+    <string name="screen_portfolio_fab_add">افزودن سپرده</string>
+    <string name="screen_portfolio_addDialog_title">افزودن سپرده</string>
+    <string name="screen_portfolio_addDialog_dateTime_label">تاریخ افزودن</string>
+    <string name="screen_portfolio_addDialog_weight_label">وزن (گرم)</string>
+    <string name="screen_portfolio_addDialog_value_label">ارزش (تومان)</string>
+    <string name="screen_portfolio_addDialog_purchasePrice_label">قیمت خرید (تومان/گرم)</string>
+    <string name="screen_portfolio_addDialog_profit_label">سود/زیان (تومان)</string>
+    <string name="action_add">افزودن</string>
+    <string name="action_cancel">لغو</string>
+    <string name="action_remove">حذف</string>
+
+    <!--    Settings Screen Strings    -->
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_language_title">زبان</string>
+    <string name="settings_language_system">زبان سیستم</string>
+    <string name="settings_gold_source_title">منبع قیمت طلا</string>
+    <string name="settings_gold_source_note">یک منبع را انتخاب کنید یا با دکمه آزمایش، دسترس‌پذیری هر کدام را بررسی کنید.</string>
+    <string name="settings_gold_source_iranjib">ایران‌جیب</string>
+    <string name="settings_gold_source_talasea">طلاسی</string>
+    <string name="settings_gold_source_tgju">TGJU</string>
+    <string name="settings_gold_source_test">آزمایش</string>
+    <string name="settings_gold_source_testing">در حال آزمایش...</string>
+    <string name="settings_gold_source_test_success">در دسترس: %1$s تومان/گرم</string>
+    <string name="settings_gold_source_test_failure">در دسترس نیست</string>
+
+    <!--    Language names    -->
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_chinese">中文</string>
+</resources>

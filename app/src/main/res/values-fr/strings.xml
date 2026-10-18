@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AuVal</string>
+    <string name="bottomNav_title_home">Accueil</string>
+    <string name="bottomNav_title_portfolio">Portefeuille</string>
+    <string name="bottomNav_title_transactions">Transactions</string>
+    <string name="bottomNav_title_settings">Paramètres</string>
+    <string name="currency_toman">Toman</string>
+
+    <!--    Home Screen Strings    -->
+    <string name="screen_home_header_greetings_morning">Bonjour</string>
+    <string name="screen_home_header_greetings_afternoon">Bon après-midi</string>
+    <string name="screen_home_header_greetings_evening">Bonsoir</string>
+    <string name="screen_home_header_greetings_night">Bonne nuit</string>
+    <string name="screen_home_header_secondaryText">Portefeuille d\'or fondu</string>
+
+    <string name="screen_home_goldPriceCard_title">Prix de l\'or 18 carats</string>
+    <string name="screen_home_goldPriceCard_price_info">Toman/gramme</string>
+    <string name="screen_home_goldPriceCard_liveData_update">dernière mise à jour</string>
+    <string name="screen_home_goldPriceCard_error">Impossible de récupérer le prix. Réessayez.</string>
+
+    <string name="screen_home_portfolio_worth_title">Valeur du portefeuille</string>
+    <string name="screen_home_portfolio_worth_footer">@string/currency_toman</string>
+
+    <string name="screen_home_portfolio_myGold_title">Poids total</string>
+    <string name="screen_home_portfolio_myGold_footer">Dépôt</string>
+
+    <string name="screen_home_bottomCards_title_today">Aujourd\'hui</string>
+    <string name="screen_home_bottomCards_title_totalPnL">P&amp;L total</string>
+    <string name="screen_home_bottomCards_title_performance">Performance</string>
+    <string name="screen_home_bottomCards_subtitle_today">par rapport à hier</string>
+    <string name="screen_home_bottomCards_subtitle_total">depuis le premier dépôt</string>
+
+    <!--    Portfolio Screen Strings-->
+    <string name="screen_portfolio_topCard_title">Mon portefeuille</string>
+    <string name="screen_portfolio_topCard_worth_title">Valeur du portefeuille</string>
+    <string name="screen_portfolio_topCard_weight_title">Poids total</string>
+    <string name="screen_portfolio_topCard_deposit_footer">Dépôt</string>
+    <string name="screen_portfolio_holding_value_title">Valeur</string>
+    <string name="screen_portfolio_holding_profit_title">Profit/Perte</string>
+    <string name="screen_portfolio_holding_bought_price_title">Prix d\'achat</string>
+    <string name="screen_portfolio_holding_added_at">Ajouté le</string>
+    <string name="screen_portfolio_empty">Aucun dépôt pour le moment</string>
+    <string name="screen_portfolio_fab_add">Ajouter un dépôt</string>
+    <string name="screen_portfolio_addDialog_title">Ajouter un dépôt</string>
+    <string name="screen_portfolio_addDialog_dateTime_label">Ajouté le</string>
+    <string name="screen_portfolio_addDialog_weight_label">Poids (g)</string>
+    <string name="screen_portfolio_addDialog_value_label">Valeur (Toman)</string>
+    <string name="screen_portfolio_addDialog_purchasePrice_label">Prix d\'achat (Toman/g)</string>
+    <string name="screen_portfolio_addDialog_profit_label">Profit/Perte (Toman)</string>
+    <string name="action_add">Ajouter</string>
+    <string name="action_cancel">Annuler</string>
+    <string name="action_remove">Supprimer</string>
+
+    <!--    Settings Screen Strings    -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_language_title">Langue</string>
+    <string name="settings_language_system">Langue du système</string>
+    <string name="settings_gold_source_title">Source du prix de l\'or</string>
+    <string name="settings_gold_source_note">Choisissez une source ou testez chacune pour vérifier sa disponibilité.</string>
+    <string name="settings_gold_source_iranjib">Iranjib</string>
+    <string name="settings_gold_source_talasea">Talasea</string>
+    <string name="settings_gold_source_tgju">TGJU</string>
+    <string name="settings_gold_source_test">Tester</string>
+    <string name="settings_gold_source_testing">Test en cours...</string>
+    <string name="settings_gold_source_test_success">Disponible : %1$s Toman/g</string>
+    <string name="settings_gold_source_test_failure">Indisponible</string>
+
+    <!--    Language names    -->
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_chinese">中文</string>
+</resources>

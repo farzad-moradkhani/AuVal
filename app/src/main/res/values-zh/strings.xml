@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AuVal</string>
+    <string name="bottomNav_title_home">主页</string>
+    <string name="bottomNav_title_portfolio">投资组合</string>
+    <string name="bottomNav_title_transactions">交易</string>
+    <string name="bottomNav_title_settings">设置</string>
+    <string name="currency_toman">托曼</string>
+
+    <!--    Home Screen Strings    -->
+    <string name="screen_home_header_greetings_morning">早上好</string>
+    <string name="screen_home_header_greetings_afternoon">下午好</string>
+    <string name="screen_home_header_greetings_evening">晚上好</string>
+    <string name="screen_home_header_greetings_night">晚安</string>
+    <string name="screen_home_header_secondaryText">熔金投资组合</string>
+
+    <string name="screen_home_goldPriceCard_title">18K 黄金价格</string>
+    <string name="screen_home_goldPriceCard_price_info">托曼/克</string>
+    <string name="screen_home_goldPriceCard_liveData_update">最后更新</string>
+    <string name="screen_home_goldPriceCard_error">无法获取价格，请重试。</string>
+
+    <string name="screen_home_portfolio_worth_title">投资组合价值</string>
+    <string name="screen_home_portfolio_worth_footer">@string/currency_toman</string>
+
+    <string name="screen_home_portfolio_myGold_title">总重量</string>
+    <string name="screen_home_portfolio_myGold_footer">存款</string>
+
+    <string name="screen_home_bottomCards_title_today">今日</string>
+    <string name="screen_home_bottomCards_title_totalPnL">总盈亏</string>
+    <string name="screen_home_bottomCards_title_performance">表现</string>
+    <string name="screen_home_bottomCards_subtitle_today">较昨日</string>
+    <string name="screen_home_bottomCards_subtitle_total">自首笔存款起</string>
+
+    <!--    Portfolio Screen Strings-->
+    <string name="screen_portfolio_topCard_title">我的投资组合</string>
+    <string name="screen_portfolio_topCard_worth_title">投资组合价值</string>
+    <string name="screen_portfolio_topCard_weight_title">总重量</string>
+    <string name="screen_portfolio_topCard_deposit_footer">存款</string>
+    <string name="screen_portfolio_holding_value_title">价值</string>
+    <string name="screen_portfolio_holding_profit_title">盈亏</string>
+    <string name="screen_portfolio_holding_bought_price_title">购买价格</string>
+    <string name="screen_portfolio_holding_added_at">添加时间</string>
+    <string name="screen_portfolio_empty">暂无存款</string>
+    <string name="screen_portfolio_fab_add">添加存款</string>
+    <string name="screen_portfolio_addDialog_title">添加存款</string>
+    <string name="screen_portfolio_addDialog_dateTime_label">添加时间</string>
+    <string name="screen_portfolio_addDialog_weight_label">重量（克）</string>
+    <string name="screen_portfolio_addDialog_value_label">价值（托曼）</string>
+    <string name="screen_portfolio_addDialog_purchasePrice_label">购买价格（托曼/克）</string>
+    <string name="screen_portfolio_addDialog_profit_label">盈亏（托曼）</string>
+    <string name="action_add">添加</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_remove">删除</string>
+
+    <!--    Settings Screen Strings    -->
+    <string name="settings_title">设置</string>
+    <string name="settings_language_title">语言</string>
+    <string name="settings_language_system">系统默认</string>
+    <string name="settings_gold_source_title">黄金价格来源</string>
+    <string name="settings_gold_source_note">选择价格来源，或逐一测试以确认是否可用。</string>
+    <string name="settings_gold_source_iranjib">Iranjib</string>
+    <string name="settings_gold_source_talasea">Talasea</string>
+    <string name="settings_gold_source_tgju">TGJU</string>
+    <string name="settings_gold_source_test">测试</string>
+    <string name="settings_gold_source_testing">正在测试...</string>
+    <string name="settings_gold_source_test_success">可用：%1$s 托曼/克</string>
+    <string name="settings_gold_source_test_failure">不可用</string>
+
+    <!--    Language names    -->
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_chinese">中文</string>
+</resources>

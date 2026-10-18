@@ -1,11 +1,17 @@
 package io.farzadmoradkani.auval.util.extentions
 
+import java.math.BigDecimal
 import java.text.NumberFormat
 import java.util.Locale
 
 fun Number.separate3Digits():String{
     return NumberFormat.getNumberInstance(Locale.US).format(this)
 }
+
+fun Number.toWeightString(): String =
+    BigDecimal.valueOf(toDouble())
+        .stripTrailingZeros()
+        .toPlainString()
 
 
 fun Number.toCompactString(): String {

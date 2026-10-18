@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AuVal</string>
+    <string name="bottomNav_title_home">الرئيسية</string>
+    <string name="bottomNav_title_portfolio">المحفظة</string>
+    <string name="bottomNav_title_transactions">المعاملات</string>
+    <string name="bottomNav_title_settings">الإعدادات</string>
+    <string name="currency_toman">تومان</string>
+
+    <!--    Home Screen Strings    -->
+    <string name="screen_home_header_greetings_morning">صباح الخير</string>
+    <string name="screen_home_header_greetings_afternoon">طاب نهارك</string>
+    <string name="screen_home_header_greetings_evening">مساء الخير</string>
+    <string name="screen_home_header_greetings_night">ليلة سعيدة</string>
+    <string name="screen_home_header_secondaryText">محفظة الذهب المذاب</string>
+
+    <string name="screen_home_goldPriceCard_title">سعر الذهب عيار 18</string>
+    <string name="screen_home_goldPriceCard_price_info">تومان/غرام</string>
+    <string name="screen_home_goldPriceCard_liveData_update">آخر تحديث</string>
+    <string name="screen_home_goldPriceCard_error">تعذر جلب السعر. حاول مرة أخرى.</string>
+
+    <string name="screen_home_portfolio_worth_title">قيمة المحفظة</string>
+    <string name="screen_home_portfolio_worth_footer">@string/currency_toman</string>
+
+    <string name="screen_home_portfolio_myGold_title">الوزن الإجمالي</string>
+    <string name="screen_home_portfolio_myGold_footer">إيداع</string>
+
+    <string name="screen_home_bottomCards_title_today">اليوم</string>
+    <string name="screen_home_bottomCards_title_totalPnL">إجمالي الربح/الخسارة</string>
+    <string name="screen_home_bottomCards_title_performance">الأداء</string>
+    <string name="screen_home_bottomCards_subtitle_today">مقارنة بالأمس</string>
+    <string name="screen_home_bottomCards_subtitle_total">منذ أول إيداع</string>
+
+    <!--    Portfolio Screen Strings-->
+    <string name="screen_portfolio_topCard_title">محفظتي</string>
+    <string name="screen_portfolio_topCard_worth_title">قيمة المحفظة</string>
+    <string name="screen_portfolio_topCard_weight_title">الوزن الإجمالي</string>
+    <string name="screen_portfolio_topCard_deposit_footer">إيداع</string>
+    <string name="screen_portfolio_holding_value_title">القيمة</string>
+    <string name="screen_portfolio_holding_profit_title">الربح/الخسارة</string>
+    <string name="screen_portfolio_holding_bought_price_title">سعر الشراء</string>
+    <string name="screen_portfolio_holding_added_at">تاريخ الإضافة</string>
+    <string name="screen_portfolio_empty">لا توجد إيداعات بعد</string>
+    <string name="screen_portfolio_fab_add">إضافة إيداع</string>
+    <string name="screen_portfolio_addDialog_title">إضافة إيداع</string>
+    <string name="screen_portfolio_addDialog_dateTime_label">تاريخ الإضافة</string>
+    <string name="screen_portfolio_addDialog_weight_label">الوزن (غرام)</string>
+    <string name="screen_portfolio_addDialog_value_label">القيمة (تومان)</string>
+    <string name="screen_portfolio_addDialog_purchasePrice_label">سعر الشراء (تومان/غرام)</string>
+    <string name="screen_portfolio_addDialog_profit_label">الربح/الخسارة (تومان)</string>
+    <string name="action_add">إضافة</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_remove">إزالة</string>
+
+    <!--    Settings Screen Strings    -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_language_title">اللغة</string>
+    <string name="settings_language_system">لغة النظام</string>
+    <string name="settings_gold_source_title">مصدر سعر الذهب</string>
+    <string name="settings_gold_source_note">اختر مصدرًا أو اختبر كلاً منها للتأكد من توفره.</string>
+    <string name="settings_gold_source_iranjib">إيران جيب</string>
+    <string name="settings_gold_source_talasea">طلاسي</string>
+    <string name="settings_gold_source_tgju">TGJU</string>
+    <string name="settings_gold_source_test">اختبار</string>
+    <string name="settings_gold_source_testing">جارٍ الاختبار...</string>
+    <string name="settings_gold_source_test_success">متاح: %1$s تومان/غرام</string>
+    <string name="settings_gold_source_test_failure">غير متاح</string>
+
+    <!--    Language names    -->
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_chinese">中文</string>
+</resources>
